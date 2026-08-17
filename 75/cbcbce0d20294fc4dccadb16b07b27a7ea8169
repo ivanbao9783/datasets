@@ -1,0 +1,38 @@
+mini_datasets/deep_swe_mini/README.md
+  s_a21cf143ce9893::t_142d7780c1dd39 1-102
+mini_datasets/deep_swe_mini/tools/convert_deepswe_results.py
+  s_a21cf143ce9893::t_2a1713793056c2 1-135
+mini_datasets/deep_swe_mini/deepswe_metadata/deepswe_metadata.csv
+  s_a21cf143ce9893::t_48413bd5dde7cf 1-114
+mini_datasets/deep_swe_mini/tools/extract_deepswe_subsets.py
+  s_a21cf143ce9893::t_d0fd230e7673b9 1-130
+mini_datasets/deep_swe_mini/deepswe_metadata/info.json
+  s_a21cf143ce9893::t_48413bd5dde7cf 1-64
+mini_datasets/deep_swe_mini/processor.py
+  s_a21cf143ce9893::t_7f13726e252316 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "75cbcbce0d20294fc4dccadb16b07b27a7ea8169",
+  "prompts": {},
+  "sessions": {
+    "s_a21cf143ce9893": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a7a9960c316b66eb0ed550a",
+        "model": "glm-5.2__dev"
+      },
+      "human_author": "ivanbao9783 <ivanbao9783@gmail.com>",
+      "custom_attributes": {
+        "external_session_id": "6a7a9960c316b66eb0ed550a",
+        "operation_id": "6a80160016fe8feb96ae8f5c",
+        "session_id": "6a7a9960c316b66eb0ed550a",
+        "tool_name": "RunCommand",
+        "edit_kind": "bash",
+        "display_model_name": "GLM-5.2",
+        "tool_use_id": "6a80160016fe8feb96ae8f5c"
+      }
+    }
+  }
+}
